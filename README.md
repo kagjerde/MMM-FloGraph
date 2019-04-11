@@ -16,12 +16,18 @@ git clone https://github.com/kagjerde/MMM-FloGraph.git
 cd MMM-FloGraph
 npm install # this can take a while
 ```
+Please note that this module require two libraries that may not be installed in your configuration.
+If this is the case then pleas downolad the following:
+[Chart.js](https://github.com/chartjs/Chart.js)
+[Chartjs-plugin-annotation](https://github.com/chartjs/chartjs-plugin-annotation)
+You can install these libraries in the 'node_modules' directory at the root of Magic Mirror.
+
 ## Screenshot
 
-![Layout 1](Screenshot.png)
+![Layout 1](Screen_shot.png)
 
 When used in combination with the "sister" module [MMM-Flo](https://github.com/kagjerde/MMM-Flo), the display will show both the table and graph:
-![Layout 1](Screenshot2.png)
+![Layout 1](Screen_shot2.png)
 
 ## Configuration
 
