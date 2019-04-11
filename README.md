@@ -20,6 +20,9 @@ npm install # this can take a while
 
 ![Layout 1](Screenshot.png)
 
+When used in combination with the "siste" module MMM-Flo, the display will show both the table and graph:
+![Layout 1](Screenshot2.png)
+
 ## Configuration
 
 Add the module to your modules array in your `config.js`.
@@ -34,12 +37,12 @@ Add the module to your modules array in your `config.js`.
 				lon:5.321504,
 				datatype:"all", //all, obs, pre, tab
 			}
-  }, 
+        }, 
 ```
 
 ## Credits
 
-The module is based on the [MMM-HTTPRequestDisplay](https://github.com/Eunanibus/MMM-HTTPRequestDisplay) By Eunan Camilleri, and [dynchart](https://github.com/qistoph/MMM-dynchart)
+The module is based on the [MMM-HTTPRequestDisplay](https://github.com/Eunanibus/MMM-HTTPRequestDisplay) By Eunan Camilleri, and [MMM-dynchart](https://github.com/qistoph/MMM-dynchart)
 module by Chris van Marle
 
 ## License
