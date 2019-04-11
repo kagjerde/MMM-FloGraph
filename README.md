@@ -20,7 +20,7 @@ npm install # this can take a while
 
 ![Layout 1](Screenshot.png)
 
-When used in combination with the "siste" module MMM-Flo, the display will show both the table and graph:
+When used in combination with the "sister" module [MMM-Flo](), the display will show both the table and graph:
 ![Layout 1](Screenshot2.png)
 
 ## Configuration
