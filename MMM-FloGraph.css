@@ -1,0 +1,26 @@
+/*
+ *
+ * MMM-Flo
+ *
+ * 
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */
+ .MMM-FloGraph .icon {
+    height: auto; 
+    width: auto; 
+    max-width: 150px; 
+    padding: 0px 0px;
+    vertical-align: middle;
+    position: relative;
+}
+
+.MMM-FloGraph .myChart {
+    height: auto; 
+    width: 400px; 
+    padding: 0px 0px;
+    vertical-align: middle;
+    position: relative;
+}
