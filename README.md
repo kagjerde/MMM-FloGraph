@@ -28,8 +28,8 @@ You can install these libraries in the 'node_modules' directory under the Magic 
 cd MMM-FloGraph
 mkdir node_modules
 cd node_modules
-npm install chart.js
-npm install chartjs-plugin-annotation
+npm install chart.js@2.8.0
+npm install chartjs-plugin-annotation@0.5.7
 ```
 
 ## Screenshot
