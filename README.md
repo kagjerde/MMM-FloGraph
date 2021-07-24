@@ -22,7 +22,15 @@ If this is the case then pleas downolad the following:
 - [Chart.js](https://github.com/chartjs/Chart.js)
 - [Chartjs-plugin-annotation](https://github.com/chartjs/chartjs-plugin-annotation)
 </br>
-You can install these libraries in the 'node_modules' directory at the root of Magic Mirror.
+You can install these libraries in the 'node_modules' directory under the Magic Mirror/modules/MMM-FloGraph directory.
+
+```bash
+cd MMM-FloGraph
+mkdir node_modules
+cd node_modules
+npm install chart.js@2.8.0
+npm install chartjs-plugin-annotation@0.5.7
+```
 
 ## Screenshot
 
