@@ -29,8 +29,8 @@ Module.register("MMM-FloGraph",{
 	// Define required scripts.
 	getScripts: function() {
 		return ["moment.js", 
-			this.file("node_modules/chart.js/dist/chart.js"),
-			this.file("node_modules/chartjs-plugin-annotation/dist/chartjs-plugin-annotation.js")
+			this.file("node_modules/chart.js/dist/Chart.js"),
+			this.file("node_modules/chartjs-plugin-annotation/chartjs-plugin-annotation.js")
 		]
 	},
 
